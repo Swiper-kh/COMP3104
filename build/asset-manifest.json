@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Swiper-kh/comp3104/static/css/main.05a42507.css",
+    "main.js": "/Swiper-kh/comp3104/static/js/main.2dce8571.js",
+    "static/js/453.ebe2eb95.chunk.js": "/Swiper-kh/comp3104/static/js/453.ebe2eb95.chunk.js",
+    "index.html": "/Swiper-kh/comp3104/index.html",
+    "main.05a42507.css.map": "/Swiper-kh/comp3104/static/css/main.05a42507.css.map",
+    "main.2dce8571.js.map": "/Swiper-kh/comp3104/static/js/main.2dce8571.js.map",
+    "453.ebe2eb95.chunk.js.map": "/Swiper-kh/comp3104/static/js/453.ebe2eb95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a42507.css",
+    "static/js/main.2dce8571.js"
+  ]
+}
