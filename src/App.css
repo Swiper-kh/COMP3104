@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  max-width: 520px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.App h1 { margin-bottom: 8px; }
+.developer {
+  color: purple;
+  font-size: 0.85rem;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.form-row { margin: 18px 0; }
+.form-row label { margin-right: 10px; }
+.form-row input {
+  padding: 8px;
+  width: 200px;
+  font-size: 1rem;
+}
+.add-btn {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+.add-btn:hover { background-color: #45a049; }
+.student-list { list-style: none; padding: 0; }
+.student-list li { padding: 6px 0; }
